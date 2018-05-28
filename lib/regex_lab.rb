@@ -21,6 +21,7 @@ def first_word_capitalized_and_ends_with_punctuation?(text)
     true
   else
     false
+  end
 
 end
 
